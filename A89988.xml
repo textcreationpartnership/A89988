@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new mercury, called Mercurius Problematicus. Proposing severall problems; and resolving them by way of quære. Also, two brief characters; the one of a cavalier, and the other of an arch-prelate or bishop of these times. Published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89988</idno><idno type="EEBO-CITATION">99860339</idno>
+  <idno type="VID">112459</idno>
+  <idno type="EEBO-PROQUEST">2248511382</idno>
+  
+            <idno type="STC">Wing N670</idno>
+            <idno type="STC">Thomason E8_17</idno>
+            <idno type="STC">ESTC R18072</idno>
+            <idno type="PROQUEST">99860339</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860339e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112459)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E8[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new mercury, called Mercurius Problematicus. Proposing severall problems; and resolving them by way of quære. Also, two brief characters; the one of a cavalier, and the other of an arch-prelate or bishop of these times. Published according to order.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. 9th".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112459:1"/>
+            <p>A NEW MERCURY, CALLED Mercurius Problematicus.</p>
+            <p>Proposing severall PROBLEMS; AND <hi>Resolving them by way of Quaere.</hi>
+            </p>
+            <p>ALSO, Two brief Characters; the one of a <hi>Cavalier,</hi> and the other of an Arch-Prelate or <hi>Bishop</hi> of these times.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Published according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed by <hi>B. A.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112459:2"/>
+            <pb facs="tcp:112459:2"/>
+            <head>THE NEW MERCURY, OR, <hi>Mercurius Problematicus.</hi>
+            </head>
+            <p>Quaere. <hi>
+                  <seg rend="decorInit">W</seg>Hy was a Parliament called <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> Oxford?</p>
+            <p>
+               <hi>Resp.</hi> To beget a Monster, with two bodies to one head.</p>
+            <p>Qu. <hi>Why do so many Papists go to the Prote<g ref="char:EOLhyphen"/>stant Church of late?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> In a reciprocall curtesie; because so many main<g ref="char:EOLhyphen"/>tainers of the true Protestant Religion go to Masse.</p>
+            <p>Qu. <hi>Why do those call'd</hi> Round-heads, <hi>refuse the Booke of Common Prayer.</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> For the ill successe of it, because their marvel<g ref="char:EOLhyphen"/>lous prayer for the spirit of Gods grace upon Bishops and Curates, hath produced a marvell, in the contrary sense: That they should be so long prayed for to so little purpose.</p>
+            <p>Qu. <hi>What is a Roundhead?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> An Antagonist to a corner Cap.</p>
+            <p>Qu. <hi>Why do Prelates weare corner Caps?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> In opposition to truth; Because truth seekes no corners.</p>
+            <pb facs="tcp:112459:3"/>
+            <p>Qu. <hi>VVhy do the Prelaticall Protestants mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mur so much against Preaching once a day in the Abbey at</hi> VVestminster?</p>
+            <p>
+               <hi>Resp.</hi> Because (as they conceive) the more effectuall meanes (the Organs) are put to silence, which were wont to pipe repentance to them, twice a day.</p>
+            <p>Qu. <hi>VVhy are so many Sects crept in amongst us, when the reformation of Religion is so exactly endeavoured?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> Because when the purity of Gods worship is most in agitation, the divell is alwayes most busie.</p>
+            <p>Qu. <hi>VVhy do the Cavaliers inveigh so bitterly against prea<g ref="char:EOLhyphen"/>ching in Tubs?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> Because <hi>Cornelius</hi> wants them for his Patients in their Army.</p>
+            <p>Qu. <hi>Are there any Tub Preachers?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> A ridiculous fable onely: Though in reality, it is better to speak truth in a Tub, then tell a tale of a Tub in a Pulpit, as their Chaplains do.</p>
+            <p>Qu. <hi>VVhy did little</hi> Lawd <hi>take upon him the alteration of Religion, and Lawes?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> Because he thought himself inspired with the spirit of <hi>Balams</hi> Asse, who saw more then his Master.</p>
+            <p>Qu. <hi>VVhy went the Queen into</hi> France?</p>
+            <p>
+               <hi>Resp.</hi> To bring <hi>France</hi> hither, that their disease may lye in the bones of posterity.</p>
+            <p>Qu. <hi>VVhat is most preposterous and dishonourable to a Po<g ref="char:EOLhyphen"/>litick Government?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> As to a domestick, when the wife wears the breeches.</p>
+            <p>Qu. <hi>VVhy have the Iudges left</hi> Westminsterhall <hi>and gone to Oxford?</hi>
+            </p>
+            <p>
+               <hi>R.</hi> To preach the Law, because the Gospel is out of request.</p>
+            <p>Qu. <hi>VVhat is likely to be the event of this summers warre?</hi>
+            </p>
+            <p>
+               <hi>R.</hi> The Almanacke tels you that the conjunction of <hi>Mars</hi> and <hi>Jupiter</hi> promiseth great victory; but it is over those who are under <hi>Taurus,</hi> which makes the conquest doubtfull.</p>
+            <pb facs="tcp:112459:3"/>
+            <p>Qu. <hi>VVhy are <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r Reformed Officers so long unpay<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</hi>
+            </p>
+            <p>
+               <hi>R.</hi> Because Reformation is better then money.</p>
+            <p>Q. <hi>VVhy did the Schollers give such entertainment to the Cavaliers at Oxford?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> Because the greatest Clerkes are not always the wi<g ref="char:EOLhyphen"/>sest men.</p>
+            <p>Q. <hi>VVhat is the most certain Rule to know when the Cava<g ref="char:EOLhyphen"/>liers are beaten?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> The ringing of Bels and making of Bonefires at Ox<g ref="char:EOLhyphen"/>ford, for beating of us.</p>
+            <p>Qu. <hi>VVhat is become of the late Lord Keeper?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> Turned Renegado by Patent under the great Seal.</p>
+            <p>Q. <hi>VVho carries the Great Seal now?</hi>
+            </p>
+            <p>
+               <hi>R.</hi> A <hi>Porter</hi> (as they say) but it is so seldome used, it lies dormant with <hi>Endimion.</hi>
+            </p>
+            <p>Q. <hi>VVhat vices in a King, are most obnoxious to the subiect?</hi>
+            </p>
+            <p>
+               <hi>R.</hi> Avarice and obstinacie.</p>
+            <p>Q. <hi>VVhat is the safest Armour for a King?</hi>
+            </p>
+            <p>
+               <hi>R.</hi> His subjects love, and a good head-piece.</p>
+            <p>Q. <hi>VVhat drew the King from the Parliament?</hi>
+            </p>
+            <p>
+               <hi>R.</hi> His unparaleld love to them who endeavour the destru<g ref="char:EOLhyphen"/>ction of him and his Kingdomes:</p>
+            <p>Q. <hi>VVhy are such great forces raised against the Parliament?</hi>
+            </p>
+            <p>
+               <hi>R.</hi> Because they will not turn traitors to their Country: which hath committed the whole busines both of Church and Commonwealth, to their trust.</p>
+            <p>Q. <hi>VVhy hath the Parliament sate so long, and the greivance of the subiect nothing redressed, but rather increased for the present?</hi>
+            </p>
+            <p>
+               <hi>R.</hi> Because they found both Church and Commwealth so poysoned, that they must first act the part of <hi>Eneas,</hi> and conquer Hell, before they can shew us any Heaven.</p>
+            <p>Q. <hi>VVhy doth not this consideration satisfie the muttering of the multitude?</hi>
+            </p>
+            <pb facs="tcp:112459:4"/>
+            <p>
+               <hi>Resp.</hi> Because the generall number do naturally look up<g ref="char:EOLhyphen"/>on their own perticular detriment and danger, with a more accentive eye then upon the publike; and the present, rather then the future.</p>
+            <p>Qu. <hi>VVhy can there no Balm be sound in</hi> Gilead, <hi>to cure these wounds?</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> Because they are so imposthumated there is no cure for them, but Corasives and Lancings, which is our greatest misery.</p>
+            <p>Qu. <hi>VVho are the chief fomenters of these unnaturall and inreconcileable combustions?</hi>
+            </p>
+            <p>
+               <hi>Resp. Rehoboams</hi> Councellors, and <hi>Ieroboams</hi> Calves: The <hi>Cavaliers</hi> and <hi>Prelates.</hi> With which I will conclude thus;
+<q>
+                  <l>VVhen two Kings Vices meet in one,</l>
+                  <l>The burthen makes the Subject grone.</l>
+               </q>
+            </p>
+            <div type="part">
+               <head>A brief Character of a Cavalier of these times.</head>
+               <p>A Cavalier of these times, appears like a burning Bea<g ref="char:EOLhyphen"/>con; which makes all men expect some approaching mischief. He tels you, he fights for the King and his lawes, yet obeyes none, but stands upon his own prerogative: For Rapine is his Vocation, and Murther his Recreation; im<g ref="char:EOLhyphen"/>bruing his hand in the bloud of his Country with as much delight, as if <hi>Beati-bollifaci</hi> were the truest Motto. If Com<g ref="char:EOLhyphen"/>mon Prayers be suppressed, his devotion is almost silenced; for he hath but one prayer for himself, and a very short one, but that I confesse is often in his mouth, and continually in
+<pb facs="tcp:112459:4"/> his actions, which is <hi>God dam him.</hi> He loves his King as he doth his Whore, expressing to both a feigned fidelity, one<g ref="char:EOLhyphen"/>ly to satisfie his unlawfull appetites, which being done, he regards both alike. If he conquer any man that appeares re<g ref="char:EOLhyphen"/>ligious, it is argument enough to give no quarter, but minse him into Attomes: And he shewes his greatest contrition, when at any time he lets a <hi>Roundhead</hi> escape unkilled, for he never repents heartily, but of that sinne. He beleeves there is no such way to know a good subject, as drinking a health to the Parliaments confusion; Nor any such Traitor as he which denies it.</p>
+               <p>To conclude, wheresoever he findes the fruits of other mens labours, he playes the Monopolist; Robs and kils by Patent, cries all flesh is Grasse fit for his moweing, and his Sword is his Sythe.</p>
+            </div>
+            <div type="part">
+               <head>A Character of a Prelate of these times.</head>
+               <p>A Prelate of these times, is betweene Church and Commonwealth a true Hiroglyphick of the Tribe of <hi>Isicar,</hi> an Asse cowchant between two burthens. VVhen he comes to be made a Bishop, he does as Maids do, sayes no and takes it; so after he has denied it thrice, he pretends the fourth time to undertake it unwillingly, with <hi>Nolens vo<g ref="char:EOLhyphen"/>lo</hi> in his mouth, though he bought it at a dear rate before he came thither, and so becomes a Lyar both to God and man: Yet to give him his due, he will by no meanes be guilty of a twofold Simony, for though he follow the ex<g ref="char:EOLhyphen"/>ample of <hi>Simon Magus</hi> in his money, yet will he never
+<pb facs="tcp:112459:5"/> follow the example of <hi>Simon Peter,</hi> in preaching the Go<g ref="char:EOLhyphen"/>spell; nor in any thing, but in denying his Master: when he comes to Repentance, he leaves him and his Cock toge<g ref="char:EOLhyphen"/>ther; for he is so in love with Dominion, he cannot endure to be over-crowed. And for feeding his Sheep, he followes the way of St. <hi>Iohn</hi> in teaching love, and bids them feed one another: But will be sure to feed himselfe, because Cha<g ref="char:EOLhyphen"/>rity begins at home. He is called a Lord Spirituall, yet can<g ref="char:EOLhyphen"/>not abide any man that prayes by the Spirit, for he thinkes that ridiculous, but holds it a mortall sinne to pray for any thing, if it be but a showre of Rain, or a fair day, except it be according to the usuall form of the Church; though now he has prayed so often in his Letany, like a great bellied wise for a safe deliverance, that he begins to feare he shall suffer Abortion, and be delivered before his time of his Episco<g ref="char:EOLhyphen"/>ty Twins (<hi>Honour</hi> and <hi>Immunity</hi>) with which he would willingly be labouring, or at least loytering all the dayes of his life. In brief, he is so distastefull a Member both in Church and Commonwealth, that wheresoever he sets his foot, he leaves an ill relish behinde him; And may justly be concluded with the wicked man in the words of the Psalmist: <hi>He lies upon his Bed and imagineth mischief, and his soul abhors nothing that is evill.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
